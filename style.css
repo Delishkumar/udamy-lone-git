@@ -45,9 +45,11 @@ body{
 }
 .categories{
     display: flex;
+    flex-wrap: wrap;
     padding: 10px;
     border-bottom: solid black 1px;
     justify-content: space-around;
+    
 }
 .categories p{
     background-color:rgb(252, 4, 252);
@@ -63,7 +65,7 @@ body{
     border-radius: 30px;
     color: black;
 }
-.sale image{
+.sale-image img{
     width: 100%;
 }
 .recommend{
