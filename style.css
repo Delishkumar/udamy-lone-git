@@ -114,6 +114,8 @@ body{
     background-color: black;
     color: white;
     padding: 30px;
+    height: 300px;
+    
 
 }
 .footer__one{
@@ -121,11 +123,11 @@ body{
     gap: 10px;
 }
 .footer__one p{
-margin: 20px;
+margin: 10px;
 }
 .footer__two{
-    display: flex;
-    justify-content: space-between;
-    margin: 20px;
-    align-items: center;
+position: relative;
+top: 250px;
+right: 320px;
 }
+
