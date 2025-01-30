@@ -33,7 +33,7 @@ body{
 .navbar__s2 input{
     border: none;
     font-size: 16px;
-    width: 60%;
+    width: 62%;
 }
 .navbar__s2 input:focus{
     outline: none;
